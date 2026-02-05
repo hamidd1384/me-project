@@ -1,0 +1,33 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.meheader{
+    color: rgba(0, 0, 0, 0.733);
+    display: flex;
+    justify-content:space-around ;
+    align-items: center;
+}
+.menu  {
+     width: 60vw;
+     min-width: 350px;
+   
+    display: flex;
+    list-style: none;
+    margin-left: auto;
+  
+}
+a{
+ text-decoration: none;
+ font-size: 20px;
+ color: rgba(0, 0, 0, 0.432);
+}
+.divp{
+
+}
+
+li{
+   margin-left: auto;
+   margin-right: auto;
+}
