@@ -16,5 +16,5 @@ const meabout = document.getElementById('about');
 meabout.innerHTML = "about me";
 
 
-
+console.log('helloo hamid ')
 
